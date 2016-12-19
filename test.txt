@@ -1,0 +1,5 @@
+This is document for testing git.
+
+Step 0.
+	Initialize
+
