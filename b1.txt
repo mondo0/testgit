@@ -1,0 +1,5 @@
+This is document for git branch testing.
+
+Step 0.
+	Branch1 initialize
+
